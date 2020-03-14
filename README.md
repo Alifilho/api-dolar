@@ -11,9 +11,9 @@ Obtain a copy of the project by cloning with git and modifying the "config.php" 
 
 You will need Git to clone the project, an Apache server, and PHP
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Git
+- Apache
+- PHP
 
 ### Installing
 
