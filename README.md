@@ -1,6 +1,7 @@
 # Api Dolar
 
 Simple PHP system for dollar quotation with the implementation of the API https://hgbrasil.com/status/finance
+based on the Código Fonte TV video (https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 
 ## Getting Started
 
