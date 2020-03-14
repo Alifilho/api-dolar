@@ -42,6 +42,6 @@ And run the server
 
 ## Authors
 
-* **Gabriel Froes** - *Initial work* - (https://github.com/gabrielfroes)
-* **Alisson Oliveira** - *Send here* - (https://github.com/Alifilho)
+* **Gabriel Froes** - *Initial work* - [GabrielFroes](https://github.com/gabrielfroes)
+* **Alisson Oliveira** - *Redid and sent here* - [Alifilho](https://github.com/Alifilho)
 
